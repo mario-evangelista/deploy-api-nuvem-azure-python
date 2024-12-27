@@ -42,7 +42,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/mario-evangelista/deploy-api-nuvem-azure-python.git
-   cd seu-repositorio
+   cd deploy-api-nuvem-azure-python
    ```
 
 2. Crie um ambiente virtual e ative-o:
