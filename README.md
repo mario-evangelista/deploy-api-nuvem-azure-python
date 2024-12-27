@@ -41,7 +41,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/mario-evangelista/deploy-api-nuvem-azure-python.git
    cd seu-repositorio
    ```
 
@@ -132,5 +132,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Se você tiver dúvidas ou sugestões, entre em contato:
 
-- **Email**: seu.email@exemplo.com
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-perfil)
+- **Email**: mariojbe@gmail.com
+- **LinkedIn**: [Mário Evangelista](https://www.linkedin.com/in/marioevangelista)
